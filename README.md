@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=betulgundogdu&color=2A5655)
 <!--
 **betulgundogdu/betulgundogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
